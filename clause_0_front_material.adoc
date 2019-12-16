@@ -10,8 +10,6 @@ ogcdoc, OGC document, cdb, spatial reference model, srm, coordinate systems, crs
 
 [big]*iii.   Preface*
 
-include::https://raw.githubusercontent.com/opengeospatial/cdb-volume-1/blob/master/list_of_volumes.adoc[]
-
 include::https://github.com/opengeospatial/cdb-volume-1/blob/master/list_of_volumes.adoc[]
 
 Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
