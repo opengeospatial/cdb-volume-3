@@ -7,4 +7,5 @@
 |Date |Release |Editor | Primary clauses modified |Description
 |2017-02-23 |1.0 |C.Reed |all |
 |2018-03-20 |1.1 |C.Reed |all |
+|2019-12-16 |1.2 |C. Reed | Various |Changes for version 1.2
 |===
