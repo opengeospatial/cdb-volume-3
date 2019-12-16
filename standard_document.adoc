@@ -1,5 +1,5 @@
-:Title: Volume 3: OGC CDB Terms and Definitions
-:titletext: Volume 3: OGC CDB Terms and Definitions
+:Title: Volume 3: OGC CDB Terms and Definitions (Normative)
+:titletext: Volume 3: OGC CDB Terms and Definitions (Normative)
 :doctype: book
 :encoding: utf-8
 :lang: en
