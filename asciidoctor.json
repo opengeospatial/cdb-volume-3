@@ -1,0 +1,12 @@
+{
+        "1": {
+                "OGC_doc_number": "15-112r4",
+                "urn":"http://www.opengis.net/doc/IS/cdb-terms/1.2",
+                "title":"Volume 3: OGC CDB Terms and Definitions (Normative)",
+                "path":"standard_document.adoc",
+                "options": ["--trace"],
+                "a":[
+                        "data-uri"
+                ]
+        }
+}
