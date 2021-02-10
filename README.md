@@ -1,4 +1,4 @@
-# OGC CDB Volume 3
+# OGC CDB Volume 3 Terms and Definitions
 
 ## Content
 
