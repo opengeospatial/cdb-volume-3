@@ -10,7 +10,25 @@ ogcdoc, OGC document, cdb, spatial reference model, srm, coordinate systems, crs
 
 [big]*iii.   Preface*
 
-include::https://github.com/opengeospatial/cdb-volume-1/blob/master/list_of_volumes.adoc[]
+For ease of editing and review, the standard has been separated into 15 document Volumes and a schema repository. +
+
+* Volume 0: OGC CDB Companion Primer for the CDB standard (Best Practice). +
+* Volume 1: OGC CDB Core Standard: Model and Physical Data Store Structure. The main body (core) of the CDB standard (Normative). +
+* Volume 2: OGC CDB Core Model and Physical Structure Annexes (Best Practice). +
+* Volume 3: OGC CDB Terms and Definitions (Normative). +
+* Volume 4: OGC CDB Rules for Encoding CDB Vector Data using Shapefiles (Best Practice). +
+* Volume 5: OGC CDB Radar Cross Section (RCS) Models (Best Practice). +
+* Volume 6: OGC CDB Rules for Encoding CDB Models using OpenFlight (Best Practice). +
+* Volume 7: OGC CDB Data Model Guidance (Best Practice). +
+* Volume 8: OGC CDB Spatial Reference System Guidance (Best Practice). +
+* Volume 9: OGC CDB Schema Package: http://schemas.opengis.net/cdb/ provides the normative schemas for key features types required in the synthetic modeling environment. Essentially, these schemas are designed to enable semantic interoperability within the simulation context (Normative). +
+* Volume 10: OGC CDB Implementation Guidance (Best Practice). +
+* Volume 11: OGC CDB Core Standard Conceptual Model (Normative). +
+* Volume 12: OGC CDB Navaids Attribution and Navaids Attribution Enumeration Values (Best Practice). +
+* Volume 13: OGC CDB Rules for Encoding CDB Vector Data using GeoPackage (Normative, Optional Extension). +
+* Volume 14: OGC CDB Guidance on Conversion of CDB Shapefiles into CDB GeoPackages (Best Practice). +
+* OGC CDB Optional Multi-Spectral Imagery Extension (Normative, Optional Extension). +
+
 
 Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
 
@@ -24,13 +42,12 @@ Organization name(s)
 
 * CAE Inc.
 * Carl Reed, OGC Individual Member
-* Envitia, Ltd
-* Glen Johnson, OGC Individual Member
-* KaDSci, LLC
-* Laval University
-* Open Site Plan
-* University of Calgary
 * UK Met Office
+* Ecere Corporation
+* The Joint Staff
+* FSI International Visual Systems
+* SimBlocks LLC
+
 
 The OGC CDB standard is based on and derived from an industry developed and maintained specification, which was approved and published as OGC Best Practice Document 15-003:  OGC Common Data Base Volume 1 Main Body.  An extensive listing of contributors to the legacy industry-led CDB specification is at Chapter 11, pp. 475-476 in that OGC Best Practices Document (https://portal.opengeospatial.org/files/?artifact_id=61935).
 
